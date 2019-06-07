@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="TestOfSerenity" skipped="0" tests="1" time="0.06" timestamp="2019-06-158 11:22:59"><testcase classname="TestOfSerenity" name="Test2"><failure type="java.lang.AssertionError"/><system-err>null&#13;
+TestOfSerenity.test2(TestOfSerenity.java:20)&#13;
+</system-err></testcase></testsuite>

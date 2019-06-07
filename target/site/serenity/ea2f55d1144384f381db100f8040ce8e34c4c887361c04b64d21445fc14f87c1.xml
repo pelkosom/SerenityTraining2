@@ -1,0 +1,6 @@
+<acceptance-test-run title="Test2" name="test2" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" annotated-result="FAILURE" result="FAILURE" duration="4" timestamp="2019-06-07T13:19:38.129+02:00">
+  <user-story id="TestOfSerenity" name="Test of serenity" path=""/>
+  <tags>
+    <tag name="Test of serenity" type="story"/>
+  </tags>
+</acceptance-test-run>
