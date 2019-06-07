@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-@RunWith(SerenityRunner.class)
+//@RunWith(SerenityRunner.class)
 public class TestOfSerenity {
 
     int a = 5;
