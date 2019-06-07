@@ -20,6 +20,7 @@ apply plugin: 'net.serenity-bdd.aggregator'
 
 dependencies {
     testCompile 'net.serenity-bdd:serenity-core:1.1.1'
+    compile group: 'net.serenity-bdd', name: 'serenity-jira-plugin', version: '1.12.0'
     testCompile 'net.serenity-bdd:serenity-junit:1.1.1'
     testCompile('junit:junit:4.12')
     testCompile('org.assertj:assertj-core:1.7.0')
